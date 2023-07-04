@@ -1,3 +1,7 @@
+"""
+Yoomoney init script
+"""
+
 from yoomoney import Authorize
 
 Authorize(

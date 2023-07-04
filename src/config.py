@@ -7,7 +7,7 @@ class Config:
     token:        str = ""
     description:  str = ""
     about:        str = ""
-    client_id:    str = ""
-    redirect_uri: str = ""
-    access_token: str = ""
+    client_id:    str = "" # From yoomoney
+    redirect_uri: str = "" # From yoomoney
+    access_token: str = "" # From yoomoney
     db_file:      str = "db.db"

@@ -1,3 +1,6 @@
+"""
+Database script
+"""
 import sqlite3
 from config import Config
 import logging

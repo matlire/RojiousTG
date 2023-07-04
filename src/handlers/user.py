@@ -1,3 +1,6 @@
+"""
+Commands & messages handler script
+"""
 from aiogram.types import Message
 from aiogram.dispatcher.filters import Command, Text
 import asyncio

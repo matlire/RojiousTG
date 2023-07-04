@@ -1,3 +1,6 @@
+"""
+Reply keyboards
+"""
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 
 button_rent = KeyboardButton('😎 Купить')

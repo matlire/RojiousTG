@@ -1,3 +1,6 @@
+"""
+Inline keyboards
+"""
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 acc_kb = InlineKeyboardMarkup().row(InlineKeyboardButton(text="ИЗМЕНИТЬ МАИНКРАФТ НИК 🎲", callback_data="edit_mine_nick")).row(InlineKeyboardButton(text="ИЗМЕНИТЬ ДИСКОРД НИК 🗣", callback_data="edit_dis_nick"))

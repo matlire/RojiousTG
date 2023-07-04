@@ -1,3 +1,7 @@
+"""
+All mesages
+"""
+
 def start_msg(tg_id):
     return f"""<b>Приветствую, {tg_id}!</b>
     

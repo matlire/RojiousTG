@@ -1,3 +1,6 @@
+"""
+Callbacks handler script
+"""
 from main import bot, dp, db, logger
 
 from aiogram.types import CallbackQuery
