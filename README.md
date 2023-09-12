@@ -1,5 +1,5 @@
 # RojiousTG
-IMPORTANT: Bot language: Rus
+IMPORTANT: Bot's language is russian, but all comments are written on English.
 
 Telegram bot for buying access to private minecraft server. It can be used in buying other accesses. Payment system - yoomoney p2p.
 
